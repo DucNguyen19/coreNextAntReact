@@ -1,2 +1,2 @@
 # coreNextAntReact
-a src core of using nextjs, ant-design, react
+a src core using nextjs, ant-design, react
